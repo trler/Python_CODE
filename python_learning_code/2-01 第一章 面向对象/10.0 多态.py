@@ -66,4 +66,5 @@ gr_ac = xiaomi_AC()
 make_cool(gr_ac)
 make_cool(md_ac)
 
-
+print(type(gr_ac))
+print(type(md_ac))
